@@ -1,5 +1,5 @@
 {
-    "name": "syntech/syntechfcm",
+"name": "mchisnerman3/syntechfcm",
     "description": "A Laravel package for FCM",
     "type": "library",
     "license": "MIT",
